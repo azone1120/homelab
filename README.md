@@ -5,7 +5,7 @@ This project is still a work-in-progress, and I'm continuously tweaking it for b
 
 ## Hardware
 Dell Precision Tower 3620
-Specs:
+###Specs:
 Intel Xeon E3
 24GB DDR4
 NVIDIA Quadro K620
