@@ -4,3 +4,8 @@ This is my personal homelab setup, built to explore and learn about system adini
 This project is still a work-in-progress, and I'm continuously tweaking it for better performance and power usage. 
 
 ## Hardware
+Dell Precision Tower 3620
+  Intel Xeon E3
+  24GB DDR4
+  NVIDIA Quadro K620
+  SAMSUNG 870 EVO SATA 1TB
