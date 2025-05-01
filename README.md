@@ -13,4 +13,3 @@ Dell Precision Tower 3620
 - **Motherboard:** OEM Dell LGA 1151 board
 - **Power Supply:** Stock Dell PSU
 - **Cooling:** Stock air cooling
-- **Case:** Mid-tower with tool-less drive bays
